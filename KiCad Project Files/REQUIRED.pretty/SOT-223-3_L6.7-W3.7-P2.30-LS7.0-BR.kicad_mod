@@ -1,0 +1,166 @@
+(footprint "SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -6.3 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4192f7c3-1ce3-4871-ab94-90c1c62b99a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AMS1117-3.3_C917183"
+		(at 0 6.3 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c137343b-d9c8-461c-9f21-e0b92e395b74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/product-detail/Dropout-Regulators-LDO_JSMSEMI-AMS1117-3-3_C917183.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "70dec0b0-26e0-4271-82cc-53ccca303519")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac13b6db-60e6-4542-8d83-d65726659373")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C917183"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "109b09e8-97e2-4801-9223-2638913c8090")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.47 3.330001)
+		(end -1.47 3.330001)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad2d9c27-2c1a-49e8-bcae-ac8d89b301e8")
+	)
+	(fp_line
+		(start 1.47 -3.330001)
+		(end 1.47 3.330001)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3b7f7240-06d5-4cac-84fb-e0fbb0914d4b")
+	)
+	(fp_line
+		(start -1.47 3.330001)
+		(end -1.47 -3.330001)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "65bd3af5-e2cb-4c55-be54-532ed423a7a1")
+	)
+	(fp_line
+		(start -1.47 -3.330001)
+		(end 1.47 -3.330001)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9cfe7184-d575-435b-a587-3f1538ddfba8")
+	)
+	(fp_circle
+		(center 4.32 2.29)
+		(end 4.57 2.290001)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "c85e1cd1-64ec-4ff7-8093-12275aeff7f5")
+	)
+	(fp_circle
+		(center 3.47 3.33)
+		(end 3.57 3.33)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "70550825-d258-4774-8356-5dd239a19974")
+	)
+	(pad "1" smd rect
+		(at 2.87 2.3 180)
+		(size 2.34 0.98)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "212d0300-3f8f-4679-923b-fb87614ded28")
+	)
+	(pad "2" smd rect
+		(at 2.869999 0 180)
+		(size 2.34 0.98)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ea105e0a-eeb8-49b1-bbc7-e1421fe647c0")
+	)
+	(pad "3" smd rect
+		(at 2.87 -2.3 180)
+		(size 2.34 0.98)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "51d7ea29-b2ac-4bbb-82ed-b19545adf031")
+	)
+	(pad "4" smd rect
+		(at -2.869999 0 180)
+		(size 2.34 3.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b3a079fe-af94-4d20-a217-d8e232efc8b4")
+	)
+	(embedded_fonts no)
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

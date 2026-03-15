@@ -1,0 +1,163 @@
+(footprint "SolderWire-0.1sqmm_1x03_P3.6mm_D0.4mm_OD1mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Soldered wire connection, for 3 times 0.1 mm² wires, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.10 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=9), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
+	(tags "connector wire 0.1sqmm")
+	(property "Reference" "REF**"
+		(at 3.6 -2 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e6cefef8-1720-4f94-94c2-499b5b100250")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Conn_01x03_Pin"
+		(at 3.6 2 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cbe61d06-085b-4ffd-89d0-763dbfc91216")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f94b37a-92a0-4eab-9fa5-380ec00b6cef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x03, script generated"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79c91681-75be-46cc-8434-6ea968e82698")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files)
+	(fp_poly
+		(pts
+			(xy -1.3 -1.3) (xy 1.3 -1.3) (xy 1.3 1.3) (xy -1.3 1.3)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6afcb8c8-dd5c-4168-8595-f733b3796728")
+	)
+	(fp_poly
+		(pts
+			(xy 2.3 -1.3) (xy 4.9 -1.3) (xy 4.9 1.3) (xy 2.3 1.3)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "1981407d-d082-4529-973b-d1be24ce5c06")
+	)
+	(fp_poly
+		(pts
+			(xy 5.9 -1.3) (xy 8.5 -1.3) (xy 8.5 1.3) (xy 5.9 1.3)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "75933b1c-b5c6-4f29-be9d-cda3f5944ab3")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.499999 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a875e6d7-afce-4787-b7f8-0ca1d32f00c3")
+	)
+	(fp_circle
+		(center 3.599999 0)
+		(end 4.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5acc8044-3350-4945-9c10-ddc19e683856")
+	)
+	(fp_circle
+		(center 7.2 0)
+		(end 7.7 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "109e3622-14f0-4c4a-a84d-8ff651c897b7")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "513ec8b4-244a-400a-a086-714e086b2d03")
+	)
+	(pad "2" thru_hole circle
+		(at 3.599999 0)
+		(size 1.6 1.6)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bf0f1058-0abc-4347-8577-367c0e3678a5")
+	)
+	(pad "3" thru_hole circle
+		(at 7.2 0)
+		(size 1.6 1.6)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de56a4e3-91b9-499b-887e-3206c39418b9")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x03_P3.6mm_D0.4mm_OD1mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
