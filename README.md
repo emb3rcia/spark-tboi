@@ -15,7 +15,7 @@ spark-tboi is small-footprint keyboard/macropad with autoclicking capabilities a
 
 ## Motivation for the project
 
-spark-debug was created to reduce strain on arms that happens when spam-clicking arrow keys with items such as Spirit Sword or Chocolate Milk
+spark-tboi was created to reduce strain on arms that happens when spam-clicking arrow keys with items such as Spirit Sword or Chocolate Milk
 
 ## Humorous additions
 
@@ -96,11 +96,17 @@ See `/Licenses/Apache-2.0.txt` for full terms.
 
 # BOM
 
+BOM lists all the things i need to buy. Other things needed that aren't included in BOM are:
+cherry mx compatible hot swap sockets
+keycaps
+Alps EC11 encoder (came with hackpad kit)
+OLED SSD1306 128x32 screen (came with hackpad kit)
+
 |Name                   |Purpose                                            |Cost per unit|Amount|Total cost|Link                                                                 |Distributor|
 |-----------------------|---------------------------------------------------|-------------|------|----------|---------------------------------------------------------------------|-----------|
 |PCB                    |PCB (5 is minimal order)                           |6.50 USD     |5     |32.50 USD |https://jlcpcb.com                                                   |JLCPCB     |
 |YAGEO CC0603KRX7R9BB103|Decoupling capacitor for MCU (100 is minimal order)|0.0023 USD   |100   |0.23 USD  |https://www.lcsc.com/product-detail/C100042.html                     |LCSC       |
-|JLYE Y32258MNCCZ       |8Mhz oscillator for USB FS (5 is minimal order)    |0.32 USD     |5     |1.60 US   |Dhttps://www.lcsc.com/product-detail/C49207813.html                  |LCSC       |
+|JLYE Y32258MNCCZ       |8Mhz oscillator for USB FS (5 is minimal order)    |0.32 USD     |5     |1.60 USD   |https://www.lcsc.com/product-detail/C49207813.html                  |LCSC       |
 |ST STM32F103C8T7       |MCU                                                |4.27 USD     |1     |4.27 USD  |https://www.lcsc.com/product-detail/C1121900.html?s_z=n_STM32F103C8T7|LCSC       |
 
 
