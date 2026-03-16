@@ -78,7 +78,7 @@ Fusion 360 bottom case
 
 ## PCB / Schematic License
 
-All files in `/PCB`, `/Schematic` and `/Gerbers` folders and their subsequent subfolders are licensed under the CERN Open Hardware License v2 (Weakly Reciprocal).
+All files in `/KiCad Project Files`, `/Schematic` and `/Gerbers` folders and their subsequent subfolders are licensed under the CERN Open Hardware License v2 (Weakly Reciprocal).
 
 See `/Licenses/CERN-OHL.txt` for full terms.
 
