@@ -62,6 +62,18 @@ Schematic
 
 ![3d bottom side](/Images/Bottom.png)
 
+Fusion 360 case
+
+![fusion 360 case](/Images/Case.png)
+
+Fusion 360 top plate
+
+![fusion 360 top plate](/Images/Top-Plate.png)
+
+Fusion 360 bottom case
+
+![fusion 360 bottom case](/Images/Bottom-Case.png)
+
 # License
 
 ## PCB / Schematic License
