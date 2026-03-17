@@ -1,5 +1,15 @@
-Name,Purpose,Cost per unit,Amount,Total cost,Link,Distributor
-PCB,PCB (5 is minimal order),6.50 USD,5,32.50 USD,https://jlcpcb.com,JLCPCB
-YAGEO CC0603KRX7R9BB103,Decoupling capacitor for MCU (100 is minimal order),0.0023 USD,100,0.23 USD,https://www.lcsc.com/product-detail/C100042.html,LCSC
-JLYE Y32258MNCCZ,8Mhz oscillator for USB FS (5 is minimal order),0.32 USD,5,1.60 US,Dhttps://www.lcsc.com/product-detail/C49207813.html,LCSC
-ST STM32F103C8T7,MCU,4.27 USD,1,4.27 USD,https://www.lcsc.com/product-detail/C1121900.html?s_z=n_STM32F103C8T7,LCSC
+Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
+"Outemu Kailh CPG151101S11","Hot-swap switches (i have them from other project)",0.00,15,0.00,"https://pl.aliexpress.com/item/1005002637150446.html?gatewayAdapt=glo2pol","AliExpress"
+"Switches and keycaps","Physical buttons (i have them from hackpad kit and other project)",0.00,15,0.00,"","HackClub"
+"FOJAN FRC0603J472 TS","Pull up/down resistors (i have them from other project)",0.00,3,0.00,"https://www.lcsc.com/product-detail/C2907166.html","LCSC"
+"Samsung Electro-Mechanics","10uf decoupling capacitor (i have them from other project)",0.00,1,0.00,"https://www.lcsc.com/product-detail/C19702.html","LCSC"
+"HRE CGA0603X7R104K500JT","100nf decoupling capacitors (i have them from other project)",0.00,2,0.00,"https://www.lcsc.com/product-detail/C6119867.html","LCSC"
+"Littelfuse SMBJ5.0A","TVS diode for vbus (i have it from different project)",0.00,1,0.00,"https://www.lcsc.com/product-detail/C83333.html","LSCS"
+"Alps EC11","Rotary Encoder leftover from hackpad kit",0.00,1,0.00,"","HackClub"
+"SSD1306","OLED 128x32 SSD1306 screen leftover from hackpad kit",0.00,1,0.00,"","HackClub"
+"SHOU HAN TYPE-C 16PIN 2MD(073)","USB-C Port (i have it from other project)",0.00,1,0.00,"https://www.lcsc.com/product-detail/C2765186.html?s_z=n_C2765186","LCSC"
+"Shipping","PCB + Component shipping",25.83,1,25.83,"","Global Direct Standard Line"
+"PCB","PCB",6.50,5,32.50,"https://jlcpcb.com","JLCPCB"
+"YAGEO CC0603KRX7R9BB103","Decoupling capacitor for MCU (100 is minimal order)",0.00,100,0.23,"https://www.lcsc.com/product-detail/C100042.html","LCSC"
+"JLYE Y32258MNCCZ","8Mhz oscillator for USB FS (5 is minimal order)",0.32,5,1.60,"https://www.lcsc.com/product-detail/C49207813.html","LCSC"
+"ST STM32F103C8T7","MCU",4.27,1,4.27,"https://www.lcsc.com/product-detail/C1121900.html?s_z=n_STM32F103C8T7","LCSC"
