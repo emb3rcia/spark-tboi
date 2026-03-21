@@ -62,6 +62,18 @@ Schematic
 
 ![3d bottom side](/Images/Bottom.png)
 
+Case assembled
+
+![case assembled](/Images/Case.png)
+
+Top plate
+
+![top plate](/Images/Top-Plate.png)
+
+Bottom case
+
+![bottom case](/Images/Bottom-Case.png)
+
 # License
 
 ## PCB / Schematic License
@@ -84,7 +96,7 @@ See `/Licenses/Apache-2.0.txt` for full terms.
 
 # BOM
 
-|Name                   |Purpose                                            |Cost per unit|Amount|Total cost|Link                                                                 |Distributor|
+|Name                   |Purpose                                            |Cost per unit|Amount|Total cost                                                  |Link                                                                 |Distributor|
 |Name                          |Purpose                                                          |Cost Per Item (USD)|Quantity|Total (USD)|Link                                                                     |Distributor                |
 |------------------------------|-----------------------------------------------------------------|-------------------|--------|-----------|-------------------------------------------------------------------------|---------------------------|
 |Outemu Kailh CPG151101S11     |Hot-swap switches (i have them from other project)               |0.00               |15      |0.00       |https://pl.aliexpress.com/item/1005002637150446.html?gatewayAdapt=glo2pol|AliExpress                 |
