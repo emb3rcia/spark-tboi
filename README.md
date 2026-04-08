@@ -62,6 +62,18 @@ Schematic
 
 ![3d bottom side](/Images/Bottom.png)
 
+Case assembled
+
+![case assembled](/Images/Case.png)
+
+Top plate
+
+![top plate](/Images/Top-Plate.png)
+
+Bottom case
+
+![bottom case](/Images/Bottom-Case.png)
+
 # License
 
 ## PCB / Schematic License
